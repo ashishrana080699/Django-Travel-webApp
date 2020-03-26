@@ -1,3 +1,6 @@
+### The Application is deployed on PythonAnywhere
+http://arweb.pythonanywhere.com/
+
 ## follow me on twitter to get latest updates.
 https://twitter.com/ashishrana08
 
