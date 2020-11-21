@@ -15,11 +15,4 @@ def news(request):
     return render(request,'news.html')
 
 def contact_submit(request):
-    name=request.POST["name"]
-    email=request.POST["email"]
-    subject=request.POST["subject"]
-    message=request.POST["message"]
-
-    contact_detail=contact(name=name, email=email, subject=subject, message=message)
-    contact_detail.save()
     return render(request,'contact.html')
